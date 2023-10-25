@@ -11,14 +11,14 @@ I'm  in the first and second stages of the engineering design process (EDP) at t
 ### Skills
 
 
-##### Time Management
+#### Time Management
+Although I would not call myself the busiest person in the world, I have many things to do. Usually twice a week, after school I would go to Manhatten with a friend to play chess and I would usually stay there until 6 and get home by 7. After that, I have to cook for 
+my brother. After that, I get to do whatever that needs to be done. On the other days, I would either go to clubs after school or volunteer to gain hours. With all that load and me being a procrastinator, I decided to start doing the homework during lunch or whenever I was doing nothing and playing games so that all the work wouldn't pile up and be overwhelming.  
 
+#### Organization 
+With lots of new information being learned, I knew that it was important to organize them all so that whenever I needed it I could go back and look at the things I learned to help myself. An example would be my SEP notes, within my SEP notes I have noted down important websites that can help me with whatever coding help I need. I also have organized notes that can help me with my code whenever I need it.   
 
-
-##### Skill 2
-
-
-##### Skill 3 
+### Summary
 [Next](entry02.md)
 
 [Home](../README.md)
