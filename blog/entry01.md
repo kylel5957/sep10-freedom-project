@@ -19,6 +19,4 @@ my brother. After that, I get to do whatever that needs to be done. On the other
 With lots of new information being learned, I knew that it was important to organize them all so that whenever I needed it I could go back and look at the things I learned to help myself. An example would be my SEP notes, within my SEP notes I have noted down important websites that can help me with whatever coding help I need. I also have organized notes that can help me with my code whenever I need it.   
 
 ### Summary
-[Next](entry02.md)
-
-[Home](../README.md)
+I'm excited to start my journey researching ways to inform people about how much technology has influenced chess over the years! 
