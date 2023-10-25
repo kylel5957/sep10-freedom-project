@@ -1,8 +1,22 @@
 # Entry 1
-##### X/X/XX
+##### 10/23/23
 
+### Why Chess?
 Text
 
+### EDP
+
+
+### Skills
+
+
+##### Skill 1
+
+
+##### Skill 2
+
+
+##### Skill 3 
 [Next](entry02.md)
 
 [Home](../README.md)
