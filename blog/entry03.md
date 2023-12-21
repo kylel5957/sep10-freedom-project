@@ -9,6 +9,17 @@ After completing blog entry #2, I have progressed in my research and understandi
 
 Finishing my blog entry #2, I did a bit more researching about the history of chess. I learnt a lot about the history of chess, its original names, what is was based off of, and how long it was around for. I compiled all of my research in [here](https://docs.google.com/document/d/1ZZuaRyhUZd8yxD-rJMp6xuo9VW-2XNPqi3ibNfIiUlM/edit)  
 
+### Present technology 
+ * Square Off (Auto reset pieces)
+ * Chess notation devices (Instead of writing moves you move the pieces and the device notates for you)
+ * AI Chess Board (you can practice against AI)
+ * DGT Boards (Relays moves from the board to a screen) 
+
+### Future technology
+ * Better and Stronger computers that can completely solve games?
+ * Boards that always can reset themsevles quickly and doesn't cost a lot
+ * Chess notation, in the future the board can print out a notation sheet after the game for the players to take
+
 ### Engineering Design Process (EDP)
  
 In the engineering design process, I am currently on step 4, after finishing step 3 which was brainstorming possible solutions. Step 4 requires you to plan the most promising solution which I intend to do after figuring out the neccessary requirements to make the solution happen. I have an idea of what the invention would [look](https://docs.google.com/document/d/1ZZuaRyhUZd8yxD-rJMp6xuo9VW-2XNPqi3ibNfIiUlM/edit) like.
