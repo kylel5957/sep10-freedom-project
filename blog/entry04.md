@@ -7,7 +7,7 @@ After working on my Freedom Project for a while and brainstorming ideas, now is 
 
 ### What Tool?
 
-The tool I chose to assist me on my website journey is called [Sass](https://sass-lang.com/guide/). I chose Sass because of its benefits and convenience, with Sass, I can replace lots of my CSS code with a predetermined code I gave a variable for. So with this said, I started to tinker with Sass but was really Unsuccessful
+The tool I chose to assist me on my website journey is called [Sass](https://sass-lang.com/guide/). I chose Sass because of its benefits and convenience, with Sass, I can replace lots of my CSS code with a predetermined code I gave a variable for. I had other great options such as Jekyll and Jquery but since at the moment I wanted to make my own website design, so I won't be using Jekyll, and I also won't be using Jquery because it's too complicated for me and I need some knowledge of Javascript which I don't have. So with that said, I started to tinker with Sass but was really unsuccessful.
 
 ### Problems
 
