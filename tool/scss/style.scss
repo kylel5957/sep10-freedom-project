@@ -1,0 +1,10 @@
+$color : red;
+
+* {
+    background-color:blue;
+}
+
+body {
+    text-align:right;
+    color:$color;
+}

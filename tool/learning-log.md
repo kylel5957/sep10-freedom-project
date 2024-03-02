@@ -1,17 +1,17 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: **SASS**
 
 ---
 
-X/X/X:
-* Text
+2/26/24:
+* Today I tried getting SASS onto my github but nothing works so ima ask for help
 
 X/X/X:
 * Text
 
 
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
