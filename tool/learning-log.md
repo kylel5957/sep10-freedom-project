@@ -19,7 +19,7 @@ Just some of videos I watched to try to solve my problem
 
 
 3/3/24:
-* Text
+* Finally got everythigng working and connected, any Scss I write will be automatically converted into CSS if I turn on watch sass. Next time maybe I can try to add another tool in alongside SASS to see if it will work
 
 
 <!--
