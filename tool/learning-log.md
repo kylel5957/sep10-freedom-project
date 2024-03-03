@@ -5,11 +5,11 @@ Tool: **SASS**
 ---
 
 2/26/24:
-* Today I tried getting SASS onto my github but nothing works so ima ask for help, instead just practiced on other websites using SASS
+* Today I tried getting SASS onto my github but nothing works so ima ask for help, instead just practiced on other websites using SASS to make different stuff like borders and using variables to change colors
   * https://www.codingame.com/playgrounds/166/sass
 
 3/1/24:
-* Today I watched a bunch of youtube videos to get sass running in my ide
+* Today I watched a bunch of youtube videos to get sass running in my ide, following their instruction but it wasn't going great
  *  https://www.youtube.com/watch?v=9J__JAgQbS0
  *  https://www.youtube.com/watch?v=nu5mdN2JIwM
 Just some of videos I watched to try to solve my problem
@@ -19,7 +19,7 @@ Just some of videos I watched to try to solve my problem
 
 
 3/3/24:
-* Finally got everythigng working and connected, any Scss I write will be automatically converted into CSS if I turn on watch sass. Next time maybe I can try to add another tool in alongside SASS to see if it will work
+* Finally got everythigng working and connected (turns out the problem was a typo which I fixed after looking through my entire code), any Scss I write will be automatically converted into CSS if I turn on watch sass. Next time maybe I can try to add another tool in alongside SASS to see if it will work
 
 
 <!--
