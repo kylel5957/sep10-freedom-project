@@ -1,3 +1,13 @@
 * {
   background-color: blue;
-}/*# sourceMappingURL=style.css.map */
+}
+
+body {
+  text-align: right;
+  color: red;
+  font-size: 30px;
+  margin: 30px;
+  padding: 30px;
+  font-family: arial;
+}
+  /*# sourceMappingURL=style.css.map */

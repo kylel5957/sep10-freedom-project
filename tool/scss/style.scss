@@ -1,10 +1,23 @@
-$color : red;
+$c : red;
+$font: 30px;
+$fonts:arial;
 
 * {
-    background-color:blue;
+    background-color:$c;
 }
 
 body {
-    text-align:right;
-    color:$color;
+    text-align: center;
+    color: $color;
+    font-size: $font;
+    margin: $font;
+    padding: $font;
+    font-family: $fonts;
 }
+
+h1 {
+    font-size:$font;
+    padding:10px;
+    text-align:left;
+}
+
