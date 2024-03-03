@@ -1,13 +1,26 @@
 * {
-  background-color: blue;
+  background-color: lightblue;
 }
 
 body {
-  text-align: right;
-  color: red;
+  text-align: center;
+  color: lightblue;
   font-size: 30px;
   margin: 30px;
   padding: 30px;
   font-family: arial;
 }
-  /*# sourceMappingURL=style.css.map */
+
+h1 {
+  font-size: 100px;
+  padding: 10px;
+  text-align: center;
+  background-color: red !important;
+}
+
+p {
+  color: blue;
+  border-style: dotted;
+  border-radius: 50%;
+  border-width: 30px;
+}/*# sourceMappingURL=style.css.map */

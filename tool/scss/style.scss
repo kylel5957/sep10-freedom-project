@@ -1,9 +1,9 @@
-$c : red;
+$color : lightblue;
 $font: 30px;
 $fonts:arial;
 
 * {
-    background-color:$c;
+    background-color:$color;
 }
 
 body {
@@ -16,8 +16,15 @@ body {
 }
 
 h1 {
-    font-size:$font;
+    font-size:100px;
     padding:10px;
-    text-align:left;
+    text-align:center;
+    background-color:red !important;
 }
 
+p {
+    color:blue;
+    border-style:dotted;
+    border-radius:50%;
+    border-width:$font;
+}
