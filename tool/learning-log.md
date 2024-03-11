@@ -26,7 +26,8 @@ Just some of videos I watched to try to solve my problem
 * https://www.youtube.com/watch?v=zGJDLINQx2Q
 
 3/10/24:
-* Tried nesting and did experiments with it 
+* Tried nesting and did experiments with it
+* Nested 2 different articles but inside they have different classes and was successful
 
 
 <!--
