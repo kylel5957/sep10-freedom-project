@@ -21,6 +21,13 @@ Just some of videos I watched to try to solve my problem
 3/3/24:
 * Finally got everythigng working and connected (turns out the problem was a typo which I fixed after looking through my entire code), any Scss I write will be automatically converted into CSS if I turn on watch sass. Next time maybe I can try to add another tool in alongside SASS to see if it will work
 
+3/6/24:
+* Learning about nesting and how it differs from the CSS version
+* https://www.youtube.com/watch?v=zGJDLINQx2Q
+
+3/10/24:
+* Tried nesting and did experiments with it 
+
 
 <!--
 * Links you used today (websites, videos, etc)

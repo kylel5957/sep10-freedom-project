@@ -13,13 +13,25 @@ body {
     margin: $font;
     padding: $font;
     font-family: $fonts;
+
+    article{
+        p{
+            color:black;
+        }
+    }
+
+    article{
+        h2{
+            color:brown;
+        }
+    }
 }
 
-h1 {
+h2 {
     font-size:100px;
     padding:10px;
     text-align:center;
-    background-color:red !important;
+    background-color:green !important;
 }
 
 p {
@@ -28,3 +40,5 @@ p {
     border-radius:50%;
     border-width:$font;
 }
+
+

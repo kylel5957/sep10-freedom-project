@@ -10,12 +10,18 @@ body {
   padding: 30px;
   font-family: arial;
 }
+body article p {
+  color: black;
+}
+body article h2 {
+  color: brown;
+}
 
-h1 {
+h2 {
   font-size: 100px;
   padding: 10px;
   text-align: center;
-  background-color: red !important;
+  background-color: green !important;
 }
 
 p {
