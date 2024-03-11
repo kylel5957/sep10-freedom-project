@@ -28,6 +28,7 @@ Just some of videos I watched to try to solve my problem
 3/10/24:
 * Tried nesting and did experiments with it
 * Nested 2 different articles but inside they have different classes and was successful
+* Looking at future possible features to try- mixins, seems like variables but you can write a whole few lines of code instead of just for 1 variable
 
 
 <!--
