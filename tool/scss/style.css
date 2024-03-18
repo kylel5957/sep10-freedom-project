@@ -1,3 +1,15 @@
+#pole {
+  background: red;
+  color: black;
+  font-size: 50px;
+}
+
+.info {
+  background: Blue;
+  color: black;
+  font-size: 50px;
+}
+
 * {
   background-color: lightblue;
 }

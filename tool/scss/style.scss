@@ -2,6 +2,20 @@ $color : lightblue;
 $font: 30px;
 $fonts:arial;
 
+@mixin theme($theme: Blue) {
+    background: $theme;
+    color: black;
+    font-size:50px;
+}
+
+#pole{
+    @include theme($theme:red);
+}
+
+.info {
+    @include theme;
+  }
+
 * {
     background-color:$color;
 }
