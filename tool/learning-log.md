@@ -45,9 +45,15 @@ Just some of videos I watched to try to solve my problem
 
 3/20/24
 * Now that ive learnt about the features of SASS, im going to try to connect it to make a website
+* Working on implementing some bootstrap into the website made me realize that when using mixins, the words after @mixins are the ones you change so that you can have different variables to use
+* Will continue to add stuff
 
-
-3/**/24
+3/22/24
+* Added some bootstrap and it looks nice compared to what I had before.
+* had some problems with navbar and this video solved my problems
+* https://www.youtube.com/watch?v=t5XjrpUEjGY
+* compared the scss and css, css looked more tiring to do while the scss I wrote look much more easier to use.
+* didn't know how to make the dropdown text be centered but after trying the nesting feature in SASS, it worked.
 
 <!--
 * Links you used today (websites, videos, etc)

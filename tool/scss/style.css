@@ -1,6 +1,39 @@
-#pole {
+#jup {
   font-size: 40px;
-  border-style: solid;
+  border-style: dashed;
+  box-shadow: 100 200 10px rgba(0, 255, 255, 0.25);
+  margin: 50px;
+  padding: 50px;
+}
+#jup h2 {
+  font-family: Oswald;
+}
+
+.dropdown-menu {
+  width: 1800px;
+}
+.dropdown-menu li {
+  text-align: center;
+}
+
+#dash {
+  font-size: 40px;
+  border-style: dashed;
+  box-shadow: 100 200 10px rgba(0, 255, 255, 0.25);
+  margin: 50px;
+}
+
+#sash {
+  font-size: 40px;
+  border-style: dashed;
+  box-shadow: 100 200 10px rgba(0, 255, 255, 0.25);
+  margin: 50px;
+}
+
+#pole {
+  background: purple;
+  color: black;
+  font-size: 50px;
 }
 
 .info {
@@ -8,12 +41,17 @@
   border-style: solid;
 }
 
+.btn-secondary {
+  width: 1800px;
+  font-size: 50px;
+}
+
 body {
   text-align: center;
-  color: lightblue;
-  font-size: 70px;
-  margin: 70px;
-  padding: 70px;
+  color: orange;
+  font-size: 50px;
+  margin: 50px;
+  padding: 50px;
   font-family: arial;
 }
 body article p {
@@ -24,7 +62,7 @@ body article h2 {
 }
 
 h2 {
-  font-size: 70px;
+  font-size: 50px;
   padding: 10px;
   text-align: center;
 }
@@ -38,6 +76,6 @@ h2 {
 }
 
 #lol {
-  font-size: 70px;
+  font-size: 50px;
   text-align: center;
 }/*# sourceMappingURL=style.css.map */

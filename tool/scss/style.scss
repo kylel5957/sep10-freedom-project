@@ -1,25 +1,57 @@
 $font: 50px;
 $fonts:arial;
-
-@mixin theme($theme: purple) {
+$color:orange;
+$theme:purple;
+@mixin back($theme: purple) {
     background: $theme;
     color: black;
     font-size:50px;
 }
-
 @mixin theme($theme: Grey) {
     font-size:40px;
     border-style:solid;
 }
+@mixin border($theme: cyan) {
+    font-size:40px;
+    border-style:dashed;
+    box-shadow: 100 200 10px rgba($theme, .25);
+    margin:$font;
+}
+
+#jup{
+    @include border;
+    padding:$font;
+
+    h2{
+        font-family:Oswald;
+    }
+}
+.dropdown-menu{
+    width:1800px;
+    li{
+        text-align:center;
+    }
+}
+
+#dash{
+    @include border;
+}
+#sash{
+    @include border;
+}
 
 #pole{
-    @include theme($theme:purple) !important;
+    @include back($theme:purple);
 }
 
 .info {
     @include theme($theme:purple);
   }
 
+.btn-secondary{
+    width:1800px;
+font-size:50px;
+}
 
 body {
     text-align: center;
