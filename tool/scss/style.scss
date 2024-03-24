@@ -1,24 +1,25 @@
-$color : lightblue;
-$font: 30px;
+$font: 50px;
 $fonts:arial;
 
-@mixin theme($theme: Blue) {
+@mixin theme($theme: purple) {
     background: $theme;
     color: black;
     font-size:50px;
 }
 
+@mixin theme($theme: Grey) {
+    font-size:40px;
+    border-style:solid;
+}
+
 #pole{
-    @include theme($theme:red);
+    @include theme($theme:purple) !important;
 }
 
 .info {
-    @include theme;
+    @include theme($theme:purple);
   }
 
-* {
-    background-color:$color;
-}
 
 body {
     text-align: center;
@@ -42,17 +43,20 @@ body {
 }
 
 h2 {
-    font-size:100px;
+    font-size:$font;
     padding:10px;
     text-align:center;
-    background-color:green !important;
 }
 
-p {
-    color:blue;
-    border-style:dotted;
-    border-radius:50%;
-    border-width:$font;
+.nav-item{
+    font-size:30px;
 }
 
+.bi {
+    font-size:70px;
+}
 
+#lol {
+    font-size:$font;
+    text-align:center;
+}

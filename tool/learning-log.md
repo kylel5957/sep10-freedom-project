@@ -43,7 +43,11 @@ Just some of videos I watched to try to solve my problem
 * Based on the examples, I see how it is being used, by using `@mixin theme($theme:color) {}` and adding varables inside the brackets, you can set the mixin in up.
 * After finishing putting the variables, you can use those variables by typing `@include theme;` inside a class or id, and just like that, you can use the predetermined set of variables.
 
+3/20/24
+* Now that ive learnt about the features of SASS, im going to try to connect it to make a website
 
+
+3/**/24
 
 <!--
 * Links you used today (websites, videos, etc)
